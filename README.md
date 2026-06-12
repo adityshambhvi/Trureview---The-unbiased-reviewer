@@ -24,10 +24,10 @@ Trureview fixes that.It pulls reviews from everywhere — Reddit, Amazon, Flipka
 ## Project Structure
 
 ```
-ReviewLens/
+Trureview/
 │
 ├── scrapers/
-│   ├── reddit_scraper.py        # PRAW-based Reddit scraper (done)
+│   ├── reddit_review.py        # PRAW-based Reddit scraper (done)
 │   ├── amazon_scraper.py        # BeautifulSoup + Selenium (in progress)
 │   ├── flipkart_scraper.py      # BeautifulSoup scraper (in progress)
 │   └── youtube_scraper.py       # YouTube Data API comments (planned)
