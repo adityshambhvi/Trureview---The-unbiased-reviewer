@@ -1,0 +1,8 @@
+# YouTube scraper (Scrapers/youtube_scraper.py)
+youtube-comment-downloader>=0.1.78
+youtube-search-python>=1.6.6
+httpx>=0.27.0,<0.28
+
+# Reddit scraper (Scrapers/reddit_review.py)
+praw>=7.7.0
+python-dotenv>=1.0.0
