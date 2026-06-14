@@ -71,14 +71,13 @@ This is actively being built. Here's where things stand:
 
 | Module | Status |
 |---|---|
-| Reddit Scraper | ✅ Done |
-| Flipkart Scraper | 🔄 In Progress |
-| Amazon Scraper | 🔄 In Progress |
-| Sentiment Pipeline (BERT + VADER) | 🔜 Up Next |
+| Reddit Scraper |  Done |
+| Flipkart Scraper | Done |
+| Youtube Scraper | Done |
+| Sentiment Pipeline (BERT + VADER) | In progress|
 | Aspect Extraction (KeyBERT) | 🔜 Up Next |
 | FastAPI Backend | 🔜 Up Next |
 | Streamlit Dashboard | 🔜 Up Next |
-| YouTube Scraper | 🔜 Planned |
 | HuggingFace Spaces Deployment | 🔜 Planned |
 
 ---
